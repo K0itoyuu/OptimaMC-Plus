@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="lwjgl3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-opengl-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-harfbuzz-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-tinyfd-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-stb-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-opengl-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-freetype-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-jemalloc-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-jemalloc-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-opengl-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-openal-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-glfw-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-glfw-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-tinyfd-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-tinyfd-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-glfw-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-freetype-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-opengl-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-harfbuzz-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-openal-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-stb-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-stb-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-glfw-3.3.3-natives-windows-arm64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-jemalloc-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-jemalloc-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-openal-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-tinyfd-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-stb-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-freetype-3.3.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-freetype-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-openal-3.3.3-natives-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lwjgl3/lwjgl-3.3.3-natives-windows-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
